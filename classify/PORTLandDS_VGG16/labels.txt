@@ -1,0 +1,5 @@
+boxes
+glass_bottles
+soda_cans
+crushed_soda_cans
+water_bottle
